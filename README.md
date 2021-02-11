@@ -13,7 +13,7 @@
 ## Examples
 
 - 🚗 [Tooltip](https://codesandbox.io/s/varld-tooltip-cmzi0?file=/src/App.tsx)
-- 🚚 [Popover](https://codesandbox.io/s/varld-popover-mq4yz?file=/src/styles.css)
+- 🚚 [Popover](https://codesandbox.io/s/varld-popover-mq4yz?file=/src/App.tsx)
 
 ## Install
 
