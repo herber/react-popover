@@ -10,6 +10,11 @@
   Simple Tooltip and Popover components made by Varld 💖
 </p>
 
+## Examples
+
+- 🚗 [Tooltip](https://codesandbox.io/s/varld-tooltip-cmzi0?file=/src/App.tsx)
+- 🚚 [Popover](https://codesandbox.io/s/varld-popover-mq4yz?file=/src/styles.css)
+
 ## Install
 
 ```bash
