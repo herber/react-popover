@@ -3,11 +3,11 @@
 </p>
 
 <h1 align="center">
-  <strong>Varld's</strong> Popover and Tooltip Library
+  Popover and Tooltip Library
 </h1>
 
 <p align="center">
-  Simple Tooltip and Popover components made by Varld 💖
+  Simple Tooltip and Popover components 💖
 </p>
 
 ## Examples
@@ -74,5 +74,3 @@ The `close` value is a function, which you can call to close the popover.
 ## License
 
 MIT © [Tobias Herber](https://github.com/herber)
-
-[![Made by Varld](https://potato.varld.co/oss/badge.svg)](https://varld.co)
